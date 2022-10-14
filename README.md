@@ -2,6 +2,7 @@
   * [ICLR 2022](#iclr-2022)
   * [NIPS 2021](#nips-2021)
   * [NIPS 2020](#nips-2020)
+  * [ICML 2020](#icml-2022)
 
 
 # Time-Series Papers
@@ -53,13 +54,27 @@
 
 **Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting**. [[PDF](https://papers.nips.cc/paper/2020/hash/cdf6581cb7aca4b7e19ef136c6e601a5-Abstract.html)]
 
-****. [[PDF]()]
+## ICML 2022
 
-****. [[PDF]()]
+**Modeling Irregular Time Series with Continuous Recurrent Units**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=16343)]
 
-****. [[PDF]()]
+**TACTiS: Transformer-Attentional Copulas for Time Series**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=16593)]
 
-****. [[PDF]()]
+**Closed-Form Diffeomorphic Transformations for Time Series Alignment**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=17697)]
+
+**Reconstructing Nonlinear Dynamical Systems from Multi-Modal Time Series**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=17181)]
+
+**Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=16051)]
+
+**Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=18109)]
+
+**Domain Adaptation for Time Series Forecasting via Attention Sharing**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=16937)]
+
+**Learning of Cluster-based Feature Importance for Electronic Health Record Time-series**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=17711)]
+
+**Adaptive Conformal Predictions for Time Series**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=17817)]
+
+**Utilizing Expert Features for Contrastive Learning of Time-Series Representations**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=18037)]
 
 ****. [[PDF]()]
 

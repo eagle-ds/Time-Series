@@ -1,5 +1,6 @@
 * [Time-Series](#time-series)
   * [ICLR 2022](#iclr-2022)
+  * [ICLR 2021](#iclr-2021)
   * [NIPS 2021](#nips-2021)
   * [NIPS 2020](#nips-2020)
   * [ICML 2022](#icml-2022)
@@ -42,11 +43,21 @@
 
 **Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification**. [[PDF](https://openreview.net/forum?id=PDYs7Z2XFGv)]
 
-****. [[PDF]()]
+## ICLR 2021
 
-****. [[PDF]()]
+**Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows**. [[PDF](https://openreview.net/forum?id=WiGQBFuVRv)]
 
-****. [[PDF]()]
+**Neural Jump Ordinary Differential Equations: Consistent Continuous-Time Prediction and Filtering**. [[PDF](https://openreview.net/forum?id=JFKR3WqwyXR)]
+
+**Clairvoyance: A Pipeline Toolkit for Medical Time Series**. [[PDF](https://openreview.net/forum?id=xnC8YwKUE3k)]
+
+**Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding**. [[PDF](https://openreview.net/forum?id=8qDwejCuCN)]
+
+**Generative Time-series Modeling with Fourier Flows**. [[PDF](https://openreview.net/forum?id=PpshD0AXfA)]
+
+**Discrete Graph Structure Learning for Forecasting Multiple Time Series**. [[PDF](https://openreview.net/forum?id=WEHSlH5mOk)]
+
+**Multi-Time Attention Networks for Irregularly Sampled Time Series**. [[PDF](https://openreview.net/forum?id=4c0J6lwQ4_)]
 
 ## NIPS 2021
 **Dynamical Wasserstein Barycenters for Time-series Modeling**. [[PDF](https://papers.nips.cc/paper/2021/hash/ebb71045453f38676c40deb9864f811d-Abstract.html)]
@@ -135,9 +146,7 @@
 
 **Explaining Time Series Predictions with Dynamic Masks**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=8815)]
 
-****. [[PDF]()]
+<!--****. [[PDF]()]-->
 
-****. [[PDF]()]
 
-****. [[PDF]()]
 

@@ -12,6 +12,42 @@
 
 **CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting**. [[PDF](https://openreview.net/forum?id=PilZY3omXV2)]
 
+**Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting**. [[PDF](https://openreview.net/forum?id=0EXmFzUn5I)]
+
+**TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting**. [[PDF](https://openreview.net/forum?id=wv6g8fWLX2q)]
+
+**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**. [[PDF](https://openreview.net/forum?id=45L_dgP48Vd)]
+
+**Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy**. [[PDF](https://openreview.net/forum?id=LzQQ89U1qm_)]
+
+**DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting**. [[PDF](https://openreview.net/forum?id=AJAR-JgNw__)]
+
+**Graph-Guided Network for Irregularly Sampled Multivariate Time Series**. [[PDF](https://openreview.net/forum?id=Kwm8I7dU-l5)]
+
+**Huber Additive Models for Non-stationary Time Series Analysis**. [[PDF](https://openreview.net/forum?id=9kpuB2bgnim)]
+
+**PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series**. [[PDF](https://openreview.net/forum?id=Ix_mh42xq5w)]
+
+**Graph-Guided Network for Irregularly Sampled Multivariate Time Series**. [[PDF](https://openreview.net/forum?id=Kwm8I7dU-l5)]
+
+**Coherence-based Label Propagation over Time Series for Accelerated Active Learning**. [[PDF](https://openreview.net/forum?id=gjNcH0hj0LM)]
+
+**Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift**. [[PDF](https://openreview.net/forum?id=cGDAkQo1C0p)]
+
+**Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series**. [[PDF](https://openreview.net/forum?id=Az7opqbQE-3)]
+
+**Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks**. [[PDF](https://openreview.net/forum?id=kOu3-S3wJ7)]
+
+**T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis**. [[PDF](https://openreview.net/forum?id=U4uFaLyg7PV)]
+
+**Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification**. [[PDF](https://openreview.net/forum?id=PDYs7Z2XFGv)]
+
+****. [[PDF]()]
+
+****. [[PDF]()]
+
+****. [[PDF]()]
+
 ## NIPS 2021
 **Dynamical Wasserstein Barycenters for Time-series Modeling**. [[PDF](https://papers.nips.cc/paper/2021/hash/ebb71045453f38676c40deb9864f811d-Abstract.html)]
 

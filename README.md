@@ -3,6 +3,7 @@
   * [NIPS 2021](#nips-2021)
   * [NIPS 2020](#nips-2020)
   * [ICML 2022](#icml-2022)
+  * [ICML 2021](#icml-2021)
 
 
 # Time-Series Papers
@@ -76,7 +77,27 @@
 
 **Utilizing Expert Features for Contrastive Learning of Time-Series Representations**. [[PDF](https://icml.cc/Conferences/2022/Schedule?showEvent=18037)]
 
-****. [[PDF]()]
+## ICML 2021
+
+**Voice2Series: Reprogramming Acoustic Models for Time Series Classification**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=9059)]
+
+**Neural Rough Differential Equations for Long Time Series**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=10039)]
+
+**Necessary and sufficient conditions for causal feature selection in time series with latent common causes**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=8441)]
+
+**End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=10001)]
+
+**Conformal prediction interval for dynamic time-series**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=10469)]
+
+**Approximation Theory of Convolutional Architectures for Time Series Modelling**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=10513)]
+
+**Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=8591)]
+
+**Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=9391)]
+
+**Whittle Networks: A Deep Likelihood Model for Time Series**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=10295)]
+
+**Explaining Time Series Predictions with Dynamic Masks**. [[PDF](https://icml.cc/Conferences/2021/Schedule?showEvent=8815)]
 
 ****. [[PDF]()]
 

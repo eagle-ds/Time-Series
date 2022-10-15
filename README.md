@@ -1,4 +1,4 @@
-* [Time-Series](#time-series)
+* [Time-Series Papers](#time-series)
   * [ICLR 2022](#iclr-2022)
   * [ICLR 2021](#iclr-2021)
   * [NIPS 2021](#nips-2021)

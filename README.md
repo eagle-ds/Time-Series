@@ -1,4 +1,5 @@
 * [Time-Series Papers](#time-series)
+  * [KDD 2020](#kdd-2020)
   * [ICLR 2022](#iclr-2022)
   * [ICLR 2021](#iclr-2021)
   * [NIPS 2021](#nips-2021)
@@ -8,6 +9,9 @@
 
 
 # Time-Series Papers
+
+## KDD 2020
+**Connecting the dots: Multivariate time series forecasting with graph neural network**[[PDF](https://arxiv.org/abs/2005.11650v1)][[Code](https://github.com/nnzhan/MTGNN)]
 
 ## ICLR 2022
 

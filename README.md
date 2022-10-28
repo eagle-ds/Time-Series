@@ -1,4 +1,6 @@
 * [Time-Series Papers](#time-series)
+  * [AAAI 2022](#aaai-2022)
+  * [KDD 2022](#kdd-2022)
   * [KDD 2020](#kdd-2020)
   * [ICLR 2022](#iclr-2022)
   * [ICLR 2021](#iclr-2021)
@@ -9,6 +11,12 @@
 
 
 # Time-Series Papers
+
+## AAAI 2022
+**TS2Vec: Towards Universal Representation of Time Series**[[PDF](https://arxiv.org/abs/2106.10466)]
+
+## KDD 2022
+**Towards Learning Disentangled Representations for Time Series**[[PDF](https://dl.acm.org/doi/10.1145/3534678.3539140)]
 
 ## KDD 2020
 **Connecting the dots: Multivariate time series forecasting with graph neural network**[[PDF](https://arxiv.org/abs/2005.11650v1)][[Code](https://github.com/nnzhan/MTGNN)]
